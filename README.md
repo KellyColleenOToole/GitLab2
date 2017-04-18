@@ -2,3 +2,5 @@
 ## Team
 * Alex
 * Blake
+* Maureen
+* Nick
